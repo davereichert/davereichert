@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @davereichert
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Java at the ICT Scouts and a bit of Python with my dad
-- 💞️ I’m looking to collaborate on simple games that help me learning how to code
-- 📫 david.reichert <at> ict-scouts.ch
+- 🌱 I’m currently learning c# in shool and lernign a bit of python by my self 
+- 💞️ I’m looking to collaborate on simple projekts that help me learning how to code
+- 📫 reichertdavid99 <at> gmail.com
 
 <!---
 davereichert/davereichert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
