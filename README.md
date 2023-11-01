@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davereichert
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning c# in shool and lernign a bit of python by my self 
+- 🌱 I’m currently learning c# in shool and lerning a bit of python by my self 
 - 💞️ I’m looking to collaborate on simple projekts that help me learning how to code
 - 📫 reichertdavid99 <at> gmail.com
 
